@@ -2,6 +2,14 @@
 
 Hello everyone, I Created A To-Do App using Java As Backend and ReactJs as the frontend and redux for state management.
 
+## Repository
+
+this is the repo with combibed folder for both frontend and backend for all commits you can refer this repositories.
+
+For Frontend:- https://github.com/Naninara/ToDoFrontEnd.git
+
+For Backend :- https://github.com/Naninara/ToDoBackend-Java-.git
+
 ## Tech Stack Used
 
 1. For FrontEnd: Reactjs,Tailwind,Redux,axios(For xml requests)
